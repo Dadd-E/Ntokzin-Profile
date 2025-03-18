@@ -6,7 +6,7 @@
 ## In Training SOC Analyst
 -----------------------
 
-I've been learning Python for a week now, can create a basic homelab. Know some basics about networking and security. I'm learning at TryHackMe.
+I'm new to Cybersecurity,I've been learning Python for a week now, can create a basic homelab. Know some basics about networking and security. I'm learning at TryHackMe.
 
 - 🌍 I'm based in Tshwane  
 - ✉️ You can contact me at [jin-torashi1243@proton.me](mailto:jin-torashi1243@proton.me)  
