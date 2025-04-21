@@ -10,7 +10,7 @@ I'm new to Cybersecurity,I'm a beginner vibe coder, can create a basic homelab. 
 
 - 🌍 I'm based in Tshwane  
 - ✉️ You can contact me at [jin-torashi1243@proton.me](mailto:jin-torashi1243@proton.me)  
-- 🧠 I'm learning Python  
+- 🧠 I'm willing to learn and train myself
 - ⚡ I'm in high school  
 
 ### **Skills**
